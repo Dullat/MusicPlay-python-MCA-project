@@ -1,6 +1,6 @@
 # MyMusic Player 🎵
 
-A modern, cross-platform desktop music player built with PyQt6, featuring a Spotify-like interface with album art display and metadata support.
+A modern, cross-platform desktop music player built with PyQt6, featuring a Spotify like interface with album art display and metadata support.
 
 ## ✨ Features
 
@@ -53,11 +53,10 @@ python main.py
 ## 📁 Project Structure
 
 ```
-mymusic-player/
+root/
 ├── main.py             
 ├── README.md           
-├── requirements.txt    
-└── .gitignore          
+├── main2.py
 ```
 
 ## 🎮 How to Use
